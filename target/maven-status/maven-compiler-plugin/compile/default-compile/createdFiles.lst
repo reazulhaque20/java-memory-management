@@ -1,0 +1,12 @@
+com/tutorial/memory/demos/OffHeapDirectBufferDemo.class
+com/tutorial/memory/demos/SampleLoadedClass.class
+com/tutorial/memory/demos/LeakPatternsDemo.class
+com/tutorial/memory/demos/HeapStackDemo.class
+com/tutorial/memory/Main.class
+com/tutorial/memory/demos/ThreadLocalLeakDemo.class
+com/tutorial/memory/demos/ReferencesDemo.class
+com/tutorial/memory/demos/GarbageCollectionDemo.class
+com/tutorial/memory/demos/JfrProfilingDemo.class
+com/tutorial/memory/util/MemoryPrinter.class
+com/tutorial/memory/demos/GcComparisonWorkload.class
+com/tutorial/memory/demos/MetaspaceDemo.class

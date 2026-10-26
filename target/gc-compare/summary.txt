@@ -1,0 +1,13 @@
+GC Comparison Summary
+=====================
+Duration per run: 5s
+
+G1
+- Wall time (s): 5.04
+- GC log events: 39435
+- Log file: /Users/a80010584/Documents/0.PersonalDocs/projects/java-exception-handelling/target/gc-compare/g1.log
+
+ZGC
+- Wall time (s): 5.05
+- GC log events: 55418
+- Log file: /Users/a80010584/Documents/0.PersonalDocs/projects/java-exception-handelling/target/gc-compare/zgc.log
